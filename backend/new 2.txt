@@ -1,0 +1,28 @@
+I want to create two applications
+Application1:
+	a backend application using python and fast api
+	This application will work as RAG application 
+	create rest api so that a user can start chatting
+	use chroma db as vector database
+	Create another python scrypt to build chroma db from pdf file as input
+	
+	use .env file to store configuration values as chroma db db path.
+	create  environment variables for Gemini API
+
+Application2:
+This will be a frontend application on react
+this application will connect to backend application using rest api 
+Add this Api key
+AIzaSyBcZeG70OxY-QJyHGyYiQ6GLDG20nGLjwA
+
+create  environment variables for Gemini API
+
+D:\np#
+
+Give you top 50 most important questions with answers (latest 2026)
+
+AIzaSyCGS1PsVuqlWgcit-RyyAerC3d55lVbnBI
+
+
+new key  gemini
+AIzaSyCFTVOpzV_kpEJXjfM0SJIFHoNPrMuVf3Q
